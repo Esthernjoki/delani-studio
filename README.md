@@ -16,6 +16,6 @@ Credits TODO: Write credits
 
 Known bugs mail chimp API is not functional at the moment
 
-Contact If you have any question or contributions, please email me at [marthamwangi09@gmail.com]
+Contact If you have any question or contributions, please email me at [esthernjoki85@gmail.com]
 
 License & copyright MIT © Esther Mwangi
